@@ -46,7 +46,7 @@ npm run dev
 
 ## Live Demo
 
-Deployed on Vercel
+Deployed on Vercel: https://echo-twin-lemon.vercel.app/ 
 
 ## GitHub Repository
 
